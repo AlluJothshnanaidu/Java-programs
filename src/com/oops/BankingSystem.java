@@ -1,5 +1,8 @@
 package com.oops;
-
+//Classes: Account, SavingsAccount, CurrentAccount
+//Account → calculateInterest()
+//Override in child classes
+//Savings → 6%, Current → 2%
 class Account{
 	 double balance;
 	 
